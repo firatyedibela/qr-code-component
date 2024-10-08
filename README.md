@@ -32,6 +32,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): For styling and layout.
 - [SCSS](https://sass-lang.com): A CSS preprocessor that extends CSS.
 
+### Useful resources
+
+- [Deploying Vite App to GitHub Pages](https://medium.com/@aishwaryaparab1/deploying-vite-deploying-vite-app-to-github-pages-166fff40ffd3): This article provided clear instructions that helped me deploy my Vite project to GitHub Pages.
+
 ## Author
 
 - Frontend Mentor - [@firatyedibela](https://www.frontendmentor.io/profile/firatyedibela)
